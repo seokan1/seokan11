@@ -1,0 +1,23 @@
+Made by 너네엄마후장따먹고버려버리고mingkynet애올려버릴수도잇는어스.
+
+일단 assets/branding에 잇는 *.tfx들은 알아서 ansi코드들 넣어서 꾸미세요 애마개장애 윤공주닮은새기야 ㅋㅋ.
+
+sms 테러기 사용은 ip:2222 ssh로 로그인하고 help, methods등으로 확인하고 명령어 "boom 010-1234-5678 원하는 리퀘수" 로 어택명령어를 보낸다.
+
+
+WARNING.
+➜  ~ ssh root@127.0.0.1 -p 2222                              
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+SHA256:Z0zTIbKuAnaNTQYWoppjlGjAN/kpOC18ouBUstoNEgw.
+Please contact your system administrator.
+Add correct host key in /Users/hiu/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /Users/hiu/.ssh/known_hosts:27
+Host key for [127.0.0.1]:2222 has changed and you have requested strict checking.
+Host key verification failed.
+➜  ~ ssh-keygen -R "[127.0.0.1]:2222"

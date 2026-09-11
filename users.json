@@ -1,0 +1,8 @@
+[
+    {
+        "username": "root",
+        "password": "root",
+        "max_send": "100",
+        "time_limit": "10"
+    }
+]
